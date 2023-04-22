@@ -5,4 +5,4 @@ O método Monte Carlo consiste em realizar uma caminhada aleatória de forma que
 
 $$ \pi = \frac{4}{N} \times \left( \sum_{i=1}^N \sqrt{1-x_i^2}\right)$$
 
-no qual $x$ é um número aleatório escolhido no intervalo entre $0$ e $1$.
+no qual $x_i$ são números aleatórios escolhidos no intervalo entre $0$ e $1$.
