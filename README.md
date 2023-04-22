@@ -1,2 +1,6 @@
-# Cálculo do valor de $\pi$ com o uso do método de Monte Carlo.
-Programa para calcular o valor de pi com o método Monte Carlo
+# Cálculo do valor de $\pi$ com o uso do método Monte Carlo.
+
+
+O método Monte Carlo consiste em realizar uma caminhada aleatória de forma que pode ser utilizada para a integração de funções matemáticas. A rotina main.py define a função $\pi$ como
+
+$ pi(x) = \sqrt(1-x^2)$  
