@@ -3,6 +3,6 @@
 
 O método Monte Carlo consiste em realizar uma caminhada aleatória de forma que pode ser utilizada para a integração de funções matemáticas. A rotina main.py define $\pi$ como
 
-$$ \pi = 4 \times \left( \sum_i \sqrt{1-x_i^2}/N \right)$$
+$$ \pi = \frac{4}{N} \times \left( \sum_{i=1}^N \sqrt{1-x_i^2}\right)$$
 
 no qual $x$ é um número aleatório escolhido no intervalo entre $0$ e $1$.
